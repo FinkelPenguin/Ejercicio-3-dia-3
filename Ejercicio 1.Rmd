@@ -1,0 +1,16 @@
+---
+title: "Ejercicio 1"
+output: html_document
+---
+
+# Título princial
+
+## Título secundario
+
+*Qué formato es este*
+
+Este es el ejercicio 1 para entender bien RMarkDown y se hará lo que se pueda...
+
+```{r}
+plot(cars$speed, main="Tamaño modificado")
+```
